@@ -16,4 +16,3 @@
 <code><a href="https://developer.apple.com/swift/"><img height="35" src="images/swift.png"></a></code>
 <code><a href="https://developer.apple.com/xcode/swiftui/"><img height="35" src="images/swiftui.png"></a></code>
 <code><a href="https://javascript.info/"><img height="35" src="images/javascript.png"></a></code>
-<code><a href="https://getbootstrap.com/"><img height="35" src="images/bootstrap.png"></a></code>
