@@ -5,7 +5,6 @@
 <code><a href="https://www.alfredapp.com/"><img height="40" src="images/alfred.png"></a></code>
 <code><a href="https://www.gnu.org/software/emacs/"><img height="40" src="images/emacs.png"></a></code>
 <code><a href="https://www.jetbrains.com/ruby/"><img height="40" src="images/rubymine.png"></a></code>
-<code><a href="https://new.steinberg.net/dorico/"><img height="40" src="images/dorico.png"></a></code>
 <code><a href="https://www.google.com/chrome/"><img height="40" src="images/google-chrome.png"></a></code>
 <code><a href="https://developer.apple.com/xcode/"><img height="40" src="images/xcode.png"></a></code>
 
