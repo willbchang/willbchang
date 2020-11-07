@@ -8,7 +8,6 @@
 <code><a href="https://new.steinberg.net/dorico/"><img height="40" src="images/dorico.png"></a></code>
 <code><a href="https://www.google.com/chrome/"><img height="40" src="images/google-chrome.png"></a></code>
 <code><a href="https://developer.apple.com/xcode/"><img height="40" src="images/xcode.png"></a></code>
-<code><a href="https://github.com/yanue/V2rayU"><img height="40" src="images/v2rayu.png"></a></code>
 
 ### Languages & Frameworks
 <code><a href="https://www.ruby-lang.org/en/"><img height="35" src="images/ruby.png"></a></code>
