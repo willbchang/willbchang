@@ -1,4 +1,4 @@
-[![Will's github stats](https://github-readme-stats.vercel.app/api?username=willbchang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Will's github stats](https://github-readme-stats.vercel.app/api?username=willbchang&show_icons=true&disable_animations=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### OS & Apps
 <code><a href="https://www.apple.com/macos/"><img height="40" src="images/macos.png"></a></code>
