@@ -8,6 +8,8 @@
 <code><a href="https://developer.apple.com/xcode/"><img height="40" src="images/xcode.png"></a></code>
 
 ### Languages & Frameworks
+Learning and Using.
+
 <code><a href="https://www.ruby-lang.org/en/"><img height="35" src="images/ruby.png"></a></code>
 <code><a href="https://rubyonrails.org/"><img height="35" src="images/rails.png"></a></code>
 <code><a href="https://developer.apple.com/swift/"><img height="35" src="images/swift.png"></a></code>
