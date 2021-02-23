@@ -4,7 +4,7 @@
 <code><a href="https://www.apple.com/macos/"><img height="40" src="images/macos.png"></a></code>
 <code><a href="https://www.alfredapp.com/"><img height="40" src="images/alfred.png"></a></code>
 <code><a href="https://www.gnu.org/software/emacs/"><img height="40" src="images/emacs.png"></a></code>
-<code><a href="https://www.jetbrains.com/ruby/"><img height="40" src="images/rubymine.png"></a></code>
+<code><a href="https://www.jetbrains.com/ruby/nextversion/"><img height="40" src="images/rubymine-eap.png"></a></code>
 <code><a href="https://developer.apple.com/xcode/"><img height="40" src="images/xcode.png"></a></code>
 
 ### Languages & Frameworks
