@@ -7,8 +7,6 @@
 <code><a href="https://www.jetbrains.com/ruby/nextversion/"><img height="40" src="images/rubymine-eap.png"></a></code>
 
 ### Languages & Frameworks
-Learning and Using.
-
 <code><a href="https://www.ruby-lang.org/en/"><img height="35" src="images/ruby.png"></a></code>
 <code><a href="https://jekyllrb.com/"><img height="35" src="images/jekyll.png"></a></code>
 <code><a href="https://nodejs.org/"><img height="35" src="images/nodejs.png"></a></code>
