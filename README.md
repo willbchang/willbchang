@@ -3,8 +3,8 @@
 ### OS & Apps
 <code><a href="https://www.apple.com/macos/"><img height="40" src="https://willbc.cn/images/macos.png"></a></code>
 <code><a href="https://www.alfredapp.com/"><img height="40" src="https://willbc.cn/images/alfred.png"></a></code>
-<code><a href="https://www.google.com/chrome/"><img height="40" src="https://willbc.cn/images/google-chrome.png"></a></code>
-<code><a href="https://code.visualstudio.com/"><img height="40" src="https://willbc.cn/images/vscode.png"></a></code>
+<code><a href="https://www.gnu.org/software/emacs/"><img height="40" src="https://willbc.cn/images/emacs.png"></a></code>
+<code><a href="https://www.jetbrains.com/ruby/"><img height="40" src="https://willbc.cn/images/rubymine.png"></a></code>
 
 ### Languages & Frameworks
 <code><a href="https://nodejs.org/"><img height="35" src="https://willbc.cn/images/nodejs.png"></a></code>
