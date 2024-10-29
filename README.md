@@ -16,3 +16,5 @@
 <code><a href="https://wxt.dev/"><img height="35" src="images/wxt.svg"></a></code>
 <code><a href="https://ktor.io/"><img height="35" src="images/ktor.png"></a></code>
 <code><a href="https://www.jetbrains.com/kotlin-multiplatform//"><img height="35" src="images/kotlin-multiplatform.png"></a></code>
+<code><a href="https://www.postgresql.org/"><img height="35" src="images/postgresql.png"></a></code>
+
