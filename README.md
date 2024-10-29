@@ -13,5 +13,6 @@
 ### I Keep Eyes On
 <code><a href="https://bun.sh/"><img height="35" src="images/bun.png"></a></code>
 <code><a href="https://nuxt.com/"><img height="35" src="images/nuxt.png"></a></code>
+<code><a href="https://wxt.dev/"><img height="35" src="images/wxt.svg"></a></code>
 <code><a href="https://ktor.io/"><img height="35" src="images/ktor.png"></a></code>
 <code><a href="https://www.jetbrains.com/kotlin-multiplatform//"><img height="35" src="images/kotlin-multiplatform.png"></a></code>
