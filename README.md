@@ -7,7 +7,7 @@
 
 ### Languages & Frameworks
 <code><a href="https://www.typescriptlang.org/"><img height="35" src="images/typescript.png"></a></code>
-<code><a href="https://vuejs.org/"><img height="35" src="images/vue.png"></a></code>
+<code><a href="https://vuejs.org/"><img height="35" src="images/vue.svg"></a></code>
 <code><a href="https://kotlinlang.org/"><img height="35" src="images/kotlin.png"></a></code>
 
 ### I Keep Eyes On
